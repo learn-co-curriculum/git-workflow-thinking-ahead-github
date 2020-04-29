@@ -90,7 +90,7 @@ makes you stand out.
 ### 7. If You Fork Code, Actually Work on It
 
 - __Create meaningful contributions to other people’s code.__ If you want to
-note a fork to return to later, delete the fork, but start the repo it came
+note a fork to return to later, delete the fork, but star the repo it came
 from. Your GitHub should communicate that you can build purposeful,
 meaningful apps and features. Companies are interested in what you are
 capable of creating, not that you completed a lesson; avoid arbitrarily
